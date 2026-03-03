@@ -1,4 +1,4 @@
-# Medical Charge Prediction Model
+# Insurance Charge Prediction Model
 
 ## 🎯 Overview
 This project focuses on predicting medical insurance charges using historical patient data. By employing data preprocessing techniques and comparative regression analysis, I developed a predictive model that achieves an R² score of 0.85, providing insights into the primary attributes affecting healthcare costs.
