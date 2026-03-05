@@ -28,7 +28,7 @@ The certification comprises 10 modules covering foundational and advanced data s
 * **Tools:** Jupyter Notebooks, IBM Watson Studio, Git/GitHub
 
 ## 🚀 Applied Data Science Capstone
-The final project focuses on predicting the success of Falcon 9 first-stage landings to estimate launch costs. By applying binary classification models to historical launch data, I developed a predictive framework that enables competitors to better understand SpaceX’s cost-efficiency through stage reusability. 
+The final project focuses on predicting the success of Falcon 9 first-stage landings to estimate launch costs. By applying binary classification models to historical launch data, I am developing a predictive framework that enables competitors to better understand SpaceX’s cost-efficiency through stage reusability. 
 **View the Capstone Project here:** [Capstone Project Repository](https://github.com/Rubieskyama/SpaceX-Falcon-9-First-Stage-Landing-Prediction)
 
 ## 📝 Note on Academic Integrity
